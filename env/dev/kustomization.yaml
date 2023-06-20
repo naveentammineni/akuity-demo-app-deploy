@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/naveentammineni/akuity-demo-app
-  newTag: latest
+  newTag: b3c013d4dbe09c3bb27c362788336ea88df145ff
