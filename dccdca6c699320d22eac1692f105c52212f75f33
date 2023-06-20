@@ -1,1 +1,3 @@
 image: ghcr.io/naveentammineni/akuity-demo-app:a2a2998242354559892eba4662f69c81e1bc7287
+
+env: stage
