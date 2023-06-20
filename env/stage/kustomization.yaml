@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/naveentammineni/akuity-demo-app
+  newTag: a2a2998242354559892eba4662f69c81e1bc7287
